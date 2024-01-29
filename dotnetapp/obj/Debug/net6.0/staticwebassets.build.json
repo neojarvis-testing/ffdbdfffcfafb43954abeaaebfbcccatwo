@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M5YaHuJZ2vkpSoYTt+UmtmzklBgxn/VGyilyz9QyiC8=",
+  "Hash": "Oj/zdHs0h9PxNus0ePLR4csHL/PrCzSvm4pYWWbNNYk=",
   "Source": "dotnetapp",
   "BasePath": "_content/dotnetapp",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/scopedcss/projectbundle/dotnetapp.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/coder/project/workspace/dotnetapp/wwwroot/.DS_Store",
+      "SourceId": "dotnetapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/coder/project/workspace/dotnetapp/wwwroot/",
+      "BasePath": "_content/dotnetapp",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/home/coder/project/workspace/dotnetapp/wwwroot/css/site.css",
