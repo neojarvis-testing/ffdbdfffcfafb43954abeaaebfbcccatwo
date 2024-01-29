@@ -4,3 +4,5 @@ console.log("spring app");
 console.log("angular app");
 console.log("java script app");
 console.log("manual testing");
+console.log("automation testing");
+
